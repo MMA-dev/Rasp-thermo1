@@ -1,2 +1,4 @@
 # Rasp-thermo1
-Raspberry Pi3 Thermomether with Python
+Raspberry Pi3 Thermometer using Python
+
+Nothing fancy here
