@@ -14,6 +14,7 @@ while counter <= 12:
     print 'Weekly maximum radiation: ' + str(minuteMaximums)
 
 #First comment line here
+#Lisäsin selaimella toisen kommenttirivin
 # Checking maximum value
 
 
