@@ -1,4 +1,5 @@
 # Rasp-thermo1
 Raspberry Pi3 Thermometer using Python
 
-Nothing fancy here
+cputemp.py
+check Raspberry internal CPU temperature and displays it to the screen
