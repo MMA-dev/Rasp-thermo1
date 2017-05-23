@@ -13,7 +13,7 @@ while counter <= 12:
     print "Maximum temperature was: ", minuteMaximums 
     print 'Weekly maximum radiation: ' + str(minuteMaximums)
 
-
+#First comment line here
 # Checking maximum value
 
 
